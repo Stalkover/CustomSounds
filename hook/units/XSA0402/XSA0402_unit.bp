@@ -1,0 +1,10 @@
+UnitBlueprint {
+Merge = true,
+BlueprintId = "xsa0402",
+    Audio = {
+        UISelection = Sound {
+            Bank = 'kirovSound',
+            Cue = 'kirovCue',
+        }
+    }
+}

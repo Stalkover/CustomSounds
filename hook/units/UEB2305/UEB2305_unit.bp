@@ -1,0 +1,8 @@
+UnitBlueprint {
+    Audio = {
+        NuclearLaunchDetected = Sound {
+            Bank = 'nuclearLaunchSound',
+            Cue = 'nuclearLaunchCue',
+        },
+    }
+}
