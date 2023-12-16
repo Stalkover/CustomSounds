@@ -1,8 +1,18 @@
 UnitBlueprint {
+Merge = true,
+BlueprintId = "ueb2305",
     Audio = {
         NuclearLaunchDetected = Sound {
             Bank = 'nuclearLaunchSound',
             Cue = 'nuclearLaunchCue',
         },
+    }
+    Weapon = {
+        {
+            NukeInnerRingDamage = 100000,
+            NukeInnerRingRadius = 1000,
+            NukeOuterRingDamage = 10000,
+            NukeOuterRingRadius = 5000,
+        }
     }
 }

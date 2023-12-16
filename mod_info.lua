@@ -4,4 +4,4 @@ version = 1.0
 description = "Adds custom sounds"
 author = "Stalkover"
 exclusive = false
-ui_only = true
+ui_only = false
